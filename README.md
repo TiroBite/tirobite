@@ -3,13 +3,13 @@
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/niсk-andrianov-2b9298230/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Bagde" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Bagde" width="40"/>
   </a>
   <a href="https://t.me/Andrianov_nick">
-    <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=blue" alt="Telegram Badge" />
+    <img src="https://github.com/rdimascio/icons/blob/master/icons/telegram.svg" alt="Telegram Badge" width="40"/>
   </a>
   <a href="https://twitter.com/Andrianov_CC">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter Badge" width="40"/>
   </a> <p>
   <img src="https://komarev.com/ghpvc/?username=TiroBite&style=flat-square&color=blue" alt="Github Badges"/>
 <h1>
@@ -20,11 +20,8 @@
   
 ### :man_technologist: About Me :
 - :telescope: I’m working as a Data Scientist and sometime like contributing to WEB3 applications.
-
 - :desktop_computer: Explore the technical side of blockchain technologies.
-
 - :zap: On my own time, I read a book about ML and go to the gym.
-
 - :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=blue)](https://t.me/Andrianov_nick)
 
 ---
@@ -50,10 +47,7 @@
 
 ---
   
-### :writing_hand: My works:
-<!-- BLOG-POST-LIST:START -->
 
-<!-- BLOG-POST-LIST:END -->
 
 
 
