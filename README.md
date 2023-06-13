@@ -1,8 +1,10 @@
-![Header](./github-header-image(1).png)
-<h2>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=F7F7F7&center=true&vCenter=true&width=450&height=100&lines=Begginer+machine+learning+engineer;Student+at+School+21;Crypto+enthusiast" alt="Typing SVG" /></a>
-  </h2>
-</div>
+<p align='center'> 
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&pause=1000&color=FF6464&center=true&vCenter=true&repeat=false&width=435&height=20&lines=Hi+there%2C+I'm+Nick+Andrianov" alt="Typing SVG" /></a>
+</p>
+<!-- Typing SVG -->
+<p align='center'> 
+    <a href="https://github.com/TiroBite"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2500&color=FF6464&center=true&vCenter=true&repeat=false&width=435&lines=Beginner+ML+engineer;Student+at+School+21;Crypto+enthusiast" alt="Typing SVG" /></a>
+</p>
 
 
 <div id="badges" align="center">
