@@ -6,19 +6,15 @@
     <a href="https://github.com/TiroBite"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2500&color=FF6464&center=true&vCenter=true&repeat=false&width=435&lines=Beginner+ML+engineer;Student+at+School+21;Crypto+enthusiast" alt="Typing SVG" /></a>
 </p>
 
-
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/niсk-andrianov-2b9298230/">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Bagde" width="30"/>
-  </a>
-  <a href="https://t.me/Andrianov_nick">
-    <img src="https://github.com/rdimascio/icons/blob/master/icons/telegram.svg" alt="Telegram Badge" width="30"/>
-  </a>
-  <a href="https://twitter.com/Andrianov_CC">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter Badge" width="30"/>
-  </a> <p>
-  <img src="https://komarev.com/ghpvc/?username=TiroBite&style=flat-square&color=blue" alt="Github Badges"/>  
-</div> 
+<!-- Social icons section -->
+<p id="badges" align="center">
+  <a href="https://www.linkedin.com/in/niсk-andrianov-2b9298230/"><img src="https://cdn-icons-png.flaticon.com/128/10090/10090314.png" alt="LinkedIn Bagde" width="35"/></a>
+   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://t.me/Andrianov_nick"> <img src="https://icons8.com/icon/F4ZPUh2Mk5tk/telegram-app" alt="Telegram Badge" width="35"/></a>
+   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/Andrianov_CC"><img src="https://cdn-icons-png.flaticon.com/128/10090/10090311.png" alt="Twitter Badge" width="35"/></a>
+   &#8287;&#8287;&#8287;&#8287;&#8287;
+</p> 
   
 ### :man_technologist: About Me :
 - :telescope: I’m working as a Data Scientist and sometime like contributing to WEB3 applications.
