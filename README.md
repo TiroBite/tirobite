@@ -1,3 +1,4 @@
+<h1>
 <p align='left'> 
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=1&pause=1000&color=F7F7F7&vCenter=true&repeat=false&width=435&height=25&lines=Hi+there%2C+I'm+Nick+Andrianov" alt="Typing SVG" /></a>
 </p>
@@ -5,22 +6,22 @@
 <p align='left'> 
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&vCenter=true&width=435&lines=Beginner+machine+learning+engineer;Student+at+School+21;Crypto+enthusiast" alt="Typing SVG" /></a>
 </p>
+</h1>
 
----
-
-### :man_technologist: About Me :
-- :telescope: I’m currently studying at School 21 as a Data Scientist.
+### About Me :
+- :telescope: I’m currently studying at School 21 as a Data Scientist .
 - :desktop_computer: Explore the technical side of blockchain technologies.
-- :zap: On my own time, I read a book about ML and play basketball.
+- :zap: On my own time, I read a book about ML and play basketball 🏀.
 
 
 <!-- Social icons section -->
-<p id="badges" align="left">
-  <a href="https://www.linkedin.com/in/niсk-andrianov-2b9298230/"><img src="https://cdn-icons-png.flaticon.com/128/10090/10090314.png" alt="LinkedIn Bagde" width="35"/></a>
+### Connect with me:
+<p id="badges" align="left"> 
+  <a href="https://www.linkedin.com/in/niсk-andrianov-2b9298230/"><img src="https://cdn-icons-png.flaticon.com/128/10090/10090314.png" alt="LinkedIn Bagde" width="25"/></a>
    &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://t.me/Andrianov_nick"> <img src="https://cdn-icons-png.flaticon.com/128/2111/2111644.png" alt="Telegram Badge" width="35"/></a>
+  <a href="https://t.me/Andrianov_nick"> <img src="https://cdn-icons-png.flaticon.com/128/2111/2111644.png" alt="Telegram Badge" width="25"/></a>
    &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/Andrianov_CC"><img src="https://cdn-icons-png.flaticon.com/128/10090/10090311.png" alt="Twitter Badge" width="35"/></a>
+  <a href="https://twitter.com/Andrianov_CC"><img src="https://cdn-icons-png.flaticon.com/128/10090/10090311.png" alt="Twitter Badge" width="25"/></a>
    &#8287;&#8287;&#8287;&#8287;&#8287;
 </p> 
   
