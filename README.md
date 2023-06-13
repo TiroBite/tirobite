@@ -1,8 +1,5 @@
-<div id='header', align='center'>
-  <h1 style="color: red; font-size: 24px;">
-    Hey there, I'm Nick Andrianov
-  </h1>
-  <h2>
+![Header](./github-header-image(1).png)
+<h2>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=F7F7F7&center=true&vCenter=true&width=450&height=100&lines=Begginer+machine+learning+engineer;Student+at+School+21;Crypto+enthusiast" alt="Typing SVG" /></a>
   </h2>
 </div>
