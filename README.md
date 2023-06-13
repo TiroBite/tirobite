@@ -1,21 +1,24 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWQxYWNkYjA2YmVkNWYyYTNjMzZlZmEyMjk1ZThlYzg3ZjdiNjhiNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+<div id='header', align='center'>
+  <h1 style="color: red; font-size: 24px;">
+    Hey there, I'm Nick Andrianov
+  </h1>
+  <h2>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=F7F7F7&center=true&vCenter=true&width=450&height=100&lines=Begginer+machine+learning+engineer;Student+at+School+21;Crypto+enthusiast" alt="Typing SVG" /></a>
+  </h2>
 </div>
+
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/niсk-andrianov-2b9298230/">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Bagde" width="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Bagde" width="30"/>
   </a>
   <a href="https://t.me/Andrianov_nick">
-    <img src="https://github.com/rdimascio/icons/blob/master/icons/telegram.svg" alt="Telegram Badge" width="40"/>
+    <img src="https://github.com/rdimascio/icons/blob/master/icons/telegram.svg" alt="Telegram Badge" width="30"/>
   </a>
   <a href="https://twitter.com/Andrianov_CC">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter Badge" width="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter Badge" width="30"/>
   </a> <p>
-  <img src="https://komarev.com/ghpvc/?username=TiroBite&style=flat-square&color=blue" alt="Github Badges"/>
-<h1>
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+  <img src="https://komarev.com/ghpvc/?username=TiroBite&style=flat-square&color=blue" alt="Github Badges"/>  
 </div> 
   
 ### :man_technologist: About Me :
