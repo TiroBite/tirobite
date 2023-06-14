@@ -9,7 +9,7 @@
 </h1>
 
 ### About Me :
-- :telescope: I’m currently studying at School 21 as a Data Scientist .
+- :telescope: I’m currently studying at Yandex Practicum as a Data Scientist .
 - :desktop_computer: Explore the technical side of blockchain technologies.
 - :zap: On my own time, I read a book about ML and play basketball 🏀.
 
