@@ -49,18 +49,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiroBite&show_icons=true&theme=radical)
 <br />
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiroBite&layout=donut)](https://github.com/TiroBite/github-readme-stats)
-
-
-
-
-
-
-
-
-
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tirobite&layout=compact)](https://github.com/tirobite/github-readme-stats)
 
 
 
