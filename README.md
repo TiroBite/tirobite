@@ -1,59 +1,41 @@
-<h1>
-<p align='left'> 
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=1&pause=1000&color=F7F7F7&vCenter=true&repeat=false&width=435&height=25&lines=Hi+there%2C+I'm+Nick+Andrianov" alt="Typing SVG" /></a>
-</p>
-<!-- Typing SVG -->
-<p align='left'> 
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&vCenter=true&width=435&lines=Beginner+machine+learning+engineer;Student+at+School+21;Crypto+enthusiast" alt="Typing SVG" /></a>
-</p>
-</h1>
+<h2>Part 1. Установи Ubuntu 20.04 Server LTS без графического интерфейса. (Используем программу для виртуализации - VirtualBox)</h2> 
 
-### About Me :
-- :telescope: I’m currently studying at School 21 as a Data Scientist.
-- :desktop_computer: Explore the technical side of blockchain technologies.
-- :zap: On my own time, I read a book about ML and play basketball 🏀.
+![image](https://github.com/TiroBite/tirobite/assets/102403027/ca4d711e-0248-4606-97c5-67cfd020c706)
 
+<h2>Part 2. Создай пользователя, отличного от созданного при установке. Пользователь должен быть добавлен в группу adm.</h2>
 
-<!-- Social icons section -->
-### Connect with me:
-<p id="badges" align="left"> 
-  <a href="https://www.linkedin.com/in/niсk-andrianov-2b9298230/"><img src="https://cdn-icons-png.flaticon.com/128/10090/10090314.png" alt="LinkedIn Bagde" width="25"/></a>
-   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://t.me/Andrianov_nick"> <img src="https://cdn-icons-png.flaticon.com/128/2111/2111644.png" alt="Telegram Badge" width="25"/></a>
-   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/Andrianov_CC"><img src="https://cdn-icons-png.flaticon.com/128/10090/10090311.png" alt="Twitter Badge" width="25"/></a>
-   &#8287;&#8287;&#8287;&#8287;&#8287;
-</p> 
-  
+![image](https://github.com/TiroBite/tirobite/assets/102403027/f3ef95f5-9086-405a-8a78-e953ae5fd792)
 
----
+<h2>Part 3. Настройка сети ОС</h2>
 
-### Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="pd" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="np" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo-notext.png" title="Scikit-learn" alt="sklearn" width="65" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
-  <img src="https://dune.com/docs/resources/images/dune-vertical-logo.svg" title="Dune" alt="Dune" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-</div>
+Задание 1 - "Задай название машины вида user-1."
 
----
+Требуемые шаги:
+1. sudo hostnamectl set-hostname <новое_имя>
+2. Затем откройте файл: sudo nano /etc/hosts
+3. Найти строку: 127.0.1.1 <старое_имя>
+4. Сохранить и выйти из редактора: Ctrl + S; Ctrs + X
+5. Перезагрузить системы: reboot
 
-### :fire: My Stats :
+Задание 2 - "Установи временную зону, соответствующую твоему текущему местоположению."
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TiroBite&theme=dark&hide_border=true&border_radius=5&card_width=500)](https://git.io/streak-stats)
-<br />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiroBite&show_icons=true&theme=radical)
-<br />
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tirobite&layout=compact)](https://github.com/tirobite/github-readme-stats)
+Требуемые шаги:
+1. Создать резервную копию текущего часового пояса: cp /etc/localtime /etc/localtime.bak
+2. Создать символическую ссылку используя команду: ln -sfln -sf /usr/share/zoneinfo/Europe/Moscow /etc/localtime
+3. Проверить текущее системное время с помощью утилиты date
 
 
+Задание 3 - "Выведи названия сетевых интерфейсов с помощью консольной команды."
+
+Требуемые шаги:
+1. Установить неоходимую утилиту для отображения сетевых протоколов в читаемой виде: sudo apt install net-tools
+2. Вывести список интерфейсов: ip -br -c address
 
 
+* Первая колонка отвечает за существующие интерфейсы
+* Lo (loopback device) – виртуальный интерфейс, присутствующий по умолчанию в любом Linux. Он используется для отладки сетевых программ и запуска серверных приложений на локальной машине. С этим интерфейсом всегда связан адрес 127.0.0.1 **localhost**.
+
+Задание 4 - "Используя консольную команду, получи ip адрес устройства, на котором ты работаешь, от DHCP сервера."
 
 
-
+* DHCP - Прикладной протокол, который выполняет всю работу по подбору сетевых настроек автоматически, без необходимости присваивать вручную каждому устройству свой IP-адрес. 
