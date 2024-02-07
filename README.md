@@ -218,11 +218,14 @@ Command: ncdu /var
 Command: ncdu /var/log
 Command: ncdu /home
 
-
-
 <h2>Part 14. Работа с системными журналами</h2>
 
+![image](https://github.com/TiroBite/tirobite/assets/102403027/f85b8cf1-b9ab-4287-95e5-3598f36b38fd)
 
+скрин с сообщением о рестарте службы и авторизации пользователя
 
 
 <h2>Part 15. Использование планировщика заданий CRON</h2>
+
+![image](https://github.com/TiroBite/tirobite/assets/102403027/c7f025e6-f3f3-4e48-afc8-c7371ff4ce02)
+
